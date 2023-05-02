@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## My most used languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&border-color=#ff0000)
--------------------------------------------
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic)
+
 ## Languages and tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

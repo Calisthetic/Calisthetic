@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## My most used languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic&bg_color=00000000)
 
 ## Stats
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&count_private=true&langs_count=8&hide=html&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&count_private=true&langs_count=8&hide=html&layout=compact&bg_color=00000000"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

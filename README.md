@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic)
 
 ## Stats
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&count_private=true&langs_count=8&hide=html&layout=compact"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

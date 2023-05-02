@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My most used languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic&bg_color=00000000&show_icons=true&icon_color=cc000000)
 
 ## Stats
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&count_private=true&langs_count=8&hide=html&layout=compact&bg_color=00000000"/> </a>

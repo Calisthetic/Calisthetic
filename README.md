@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My most used languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

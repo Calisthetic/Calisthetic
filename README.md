@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My most used languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&border-color=#ff0000)
+-------------------------------------------
+## Languages and tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 

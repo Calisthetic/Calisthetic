@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## My most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&langs_count=8)
 
-## Languages and tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 

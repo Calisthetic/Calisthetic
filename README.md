@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## My most used languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic)
 
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 

@@ -71,3 +71,11 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/> 
   </a> 
 </p>
+
+<!--
+[![ShieldsIO](https://img.shields.io/badge/Shields_IO-000)](https://shields.io)
+[![MD badges](https://img.shields.io/badge/markdown--badges-3e71b2)](https://ileriayo.github.io/markdown-badges)
+[![Awesome badges](https://img.shields.io/badge/📛_Awesome%20Badges-000)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![For the badge](https://img.shields.io/badge/FOR_THE_BADGE-26c7d5)](https://forthebadge.com/#)
+[![Naereen badges](https://img.shields.io/badge/naereen_badges-000)](https://naereen.github.io/badges/)
+-->

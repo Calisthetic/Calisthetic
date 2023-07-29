@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic&bg_color=00000000&show_icons=true)
 
 ## My most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&langs_count=6&bg_color=00000000)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

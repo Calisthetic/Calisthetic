@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calisthetic&bg_color=00000000&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Calisthetic&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&title_color=ff0000&icon_color=ff0000" alt="Calisthetic's github stats" />
 
 ## My most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&langs_count=6&bg_color=00000000)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calisthetic&layout=compact&bg_color=00000000&hide_border=true&title_color=ff0000&icon_color=ff0000&langs_count=6" alt="Calisthetic's most used languages"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
